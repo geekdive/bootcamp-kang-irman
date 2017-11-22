@@ -1,5 +1,4 @@
 # bootcamp-kangirman
-Materi Bootcamp di Kediaman Kang Irman
-
+Materi Bootcamp di Kediaman Kang Irman<br>
 Schema Awal:
-<src img="https://github.com/north-d/bootcamp-kangirman/blob/master/bootcamp-kangirman.png">
+<img src="https://github.com/north-d/bootcamp-kangirman/blob/master/bootcamp-kangirman.png">
